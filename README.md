@@ -1,15 +1,18 @@
-# bindingimages
-binding images with opencv
+# Binding images
 
-first image is 
+##### binding two images by opencv with different sizes
+
+
+
+### First image is 
 
 ![first image](https://raw.githubusercontent.com/rehammetwally/bindingimages/main/puppy.jpg)
 
-second image is
+### Second image is
 
 ![second image](https://raw.githubusercontent.com/rehammetwally/bindingimages/main/opencv.png)
 
 
-the result is 
+### The result is 
 
 ![result image](https://raw.githubusercontent.com/rehammetwally/bindingimages/main/final_img.jpg)
